@@ -4,14 +4,14 @@ Essential tools for working with Markdown files in Visual Studio Code, Cursor ID
 
 ## About
 
-This extension pack is maintained by the [ScotterBrain-Dev](https://github.com/ScotterBrain-Dev) GitHub Organization and is available on OpenVSX under the [ScotterBrain](https://open-vsx.org/namespace/ScotterBrain) namespace.
+This extension pack is maintained by the [Scotterbrain-Dev](https://github.com/Scotterbrain-Dev) GitHub Organization and is available on OpenVSX under the [ScotterBrain](https://open-vsx.org/namespace/ScotterBrain) namespace.
 
 ## Quick Install
 
 ### From OpenVSX (Cursor IDE, VSCodium, etc.)
 
 ```bash
-code --install-extension ScotterBrain.scotterbrain-markdown-pack
+code --install-extension Scotterbrain.scotterbrain-markdown-pack
 ```
 
 Or search for "ScotterBrain Markdown Pack" in your IDE's extension marketplace.
