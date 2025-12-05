@@ -4,6 +4,7 @@
   "description": "Essential tools for working with Markdown files in Visual Studio Code. Includes linting, snippets, preview, WYSIWYG editor, checkbox support, and auto-preview.",
   "version": "1.0.0",
   "publisher": "ScotterBrain",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
   },
