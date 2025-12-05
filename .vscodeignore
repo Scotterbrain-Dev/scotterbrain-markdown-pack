@@ -1,0 +1,28 @@
+# Build artifacts
+*.vsix
+
+# Installation scripts (not needed in published package)
+win_install.bat
+linux_install.sh
+
+# Packaging scripts (development only)
+package-vsix.bat
+package-vsix.sh
+
+# Development documentation (not needed in published package)
+PUBLISHING.md
+SETUP.md
+create-github-repo.md
+create-repo.ps1
+
+# Detailed extension info (README.md is what shows in marketplace)
+info.md
+
+# Git files
+.git/
+.gitignore
+
+# Development files
+.vscode/
+.idea/
+
